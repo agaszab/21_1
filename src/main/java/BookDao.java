@@ -4,7 +4,7 @@ public class BookDao {
 
     private static final String URL = "jdbc:mysql://localhost:3306/library?characterEncoding=utf8";
     private static final String USER = "root";
-    private static final String PASS = "kociakolka";
+    private static final String PASS = "***";
     private Connection connection;
 
 
